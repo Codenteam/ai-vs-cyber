@@ -6,7 +6,7 @@ This repository contains the code and security analysis conducted in our blog po
 
 ## Blog Post
 
-Read the full blog post: [AI’s Generated Code Security Report: A+ or Epic Fail? Epic Fail](https://codenteam.com/ai-generated-code-security-report-a-or-epic-fail-epic-fail/)
+Read the full blog post: [AI’s Generated Code Security Report: A+ or Epic Fail?](https://codenteam.com/ai-generated-code-security-report-a-or-epic-fail-epic-fail/)
 
 ## Experiment Setup
 
