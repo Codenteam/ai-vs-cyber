@@ -117,4 +117,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
-For inquiries, reach out at [Codenteam](https://codenteam.com/contact) or via [GitHub Issues](https://github.com/codenteam/ai-code-security/issues).
+For inquiries, reach out at [Codenteam](https://codenteam.com/contact) or via [GitHub Issues](https://github.com/codenteam/ai-vs-cyber/issues).
